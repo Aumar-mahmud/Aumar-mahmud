@@ -2,19 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0f172a,50:312e81,100:6d28d9&text=Aumar%20G.%20A.%20Mahmud&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Logistics%20Data%20%C2%B7%20Process%20Automation%20%C2%B7%20MIS&descAlignY=59" alt="Aumar Mahmud profile header" />
 
-
-### Management Information Systems · Logistics Data · Process Automation
-
-<a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧%20English-1e1b4b?style=for-the-badge" alt="English" /></a>
-<a href="./README_DE.md"><img src="https://img.shields.io/badge/🇩🇪%20Deutsch-5b21b6?style=for-the-badge" alt="Deutsch" /></a>
-
-<br/><br/>
-
 <img src="https://img.shields.io/badge/LOGISTICS-Supply%20Chain%20%26%20Operations-6d28d9?style=flat-square" />
 <img src="https://img.shields.io/badge/DATA-Python%20%7C%20SQL%20%7C%20ETL-7c3aed?style=flat-square" />
 <img src="https://img.shields.io/badge/SYSTEMS-AWS%20%7C%20Linux%20%7C%20APIs-4c1d95?style=flat-square" />
 
+<br/><br/>
+
+### Language · Sprache
+
 </div>
+
+<details name="profile-language" open>
+<summary><strong>🇬🇧 English</strong> — Management Information Systems · Logistics Data · Process Automation</summary>
+
+<br/>
 
 I am a **Management Information Systems graduate** focused on **logistics data, process automation, and practical software solutions**.
 
@@ -213,3 +214,209 @@ I am open to suitable **remote/project-based opportunities now** and **Germany-b
 <a href="https://github.com/Aumar-mahmud"><img src="https://img.shields.io/badge/GitHub-Aumar--mahmud-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+
+</details>
+
+<details name="profile-language">
+<summary><strong>🇩🇪 Deutsch</strong> — Wirtschaftsinformatik · Logistikdaten · Prozessautomatisierung</summary>
+
+<br/>
+
+Ich bin **Absolvent der Wirtschaftsinformatik** mit Fokus auf **Logistikdaten, Prozessautomatisierung und praxisnahe Softwarelösungen**.
+
+Meine praktische Erfahrung in der Bestandsverwaltung verbinde ich mit Kenntnissen in **Python, SQL, ETL, APIs, Cloud-Grundlagen und operativem Reporting**.
+
+Mein Schwerpunkt liegt darauf, unstrukturierte Betriebsdaten und wiederkehrende manuelle Abläufe in **sauberere, zuverlässigere und besser nutzbare Prozesse** zu überführen.
+
+---
+
+## Was ich einbringen kann
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Daten & Automatisierung
+- Datenverarbeitung und Automatisierung mit Python
+- SQL-Abfragen und strukturierte Datenarbeit
+- ETL-Pipelines
+- Verarbeitung von Excel / CSV / JSON
+- Datenbereinigung und Standardisierung
+- Datenvalidierung und Duplikaterkennung
+- Automatisierte Qualitätskontrollen und Berichte
+
+</td>
+<td width="50%" valign="top">
+
+### Logistik & Operations
+- Bestands- und Lagerdatenprozesse
+- Versand-, Auftrags-, SKU- und Bestandsdaten
+- Datenaufbereitung für WMS / ERP
+- Qualitätsprüfungen operativer Daten
+- Automatisierung wiederkehrender Tabellenprozesse
+- Unterstützung bei Reporting und Prozessverbesserung
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & APIs
+- FastAPI und REST APIs
+- PostgreSQL und SQLAlchemy
+- Datenvalidierung mit Pydantic
+- Grundlagen der JWT-Authentifizierung
+- JSON-basierte Services
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud & Systeme
+- AWS- und EC2-Grundlagen
+- Linux-Grundlagen
+- Nginx-Konfiguration
+- SSH
+- Git- und GitHub-Workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## Ausgewähltes Projekt
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### [LogiClean](https://github.com/Aumar-mahmud/logiclean)
+#### ETL- & Datenqualitäts-Pipeline für Logistikdaten
+
+> Ein Python-basiertes Projekt zur Umwandlung uneinheitlicher Versand- und Bestandsdateien in strukturierte, validierte und analysierbare Datensätze.
+
+**Ausgangssituation**
+
+Operative Logistikdaten enthalten häufig uneinheitliche Spaltenbezeichnungen, Duplikate, fehlende SKUs, ungültige Datumswerte, unterschiedliche Statusangaben, gemischte Einheiten oder unvollständige Lagerinformationen.
+
+**Was LogiClean übernimmt**
+
+- verarbeitet **CSV, Excel und JSON**
+- erkennt Versand- und Bestandsdaten
+- ordnet uneinheitliche Spaltenbezeichnungen zu
+- standardisiert Datum, Mengen, SKUs, Status, Gewichte, Städte und Währungen
+- erkennt und entfernt Duplikate
+- markiert Datensätze zur manuellen Prüfung
+- klassifiziert Lagerbestände
+- protokolliert Datenqualitätsprobleme und abgelehnte Datensätze
+
+**Ausgaben**
+
+- **`cleaned_data.xlsx`** — standardisierte Versand- und Bestandsdaten
+- **`repair_report.xlsx`** — Kennzahlen, Fehlerprotokoll, abgelehnte Datensätze, Korrekturen und Datenqualitätswert
+
+**Technologien**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenPyXL-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL-6d28d9?style=flat-square" />
+<img src="https://img.shields.io/badge/Datenqualität-4c1d95?style=flat-square" />
+<img src="https://img.shields.io/badge/Logistikdaten-581c87?style=flat-square" />
+
+### [LogiClean ansehen →](https://github.com/Aumar-mahmud/logiclean)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Weitere technische Projekte
+
+| Projekt | Schwerpunkt |
+|---|---|
+| [**LogiClean**](https://github.com/Aumar-mahmud/logiclean) | Logistik-ETL, Datenbereinigung, Validierung, Bestandsdaten, Excel-Reporting |
+| [**Task Manager API**](https://github.com/Aumar-mahmud/task-manager-api) | FastAPI, PostgreSQL, SQLAlchemy, JWT, Pydantic |
+| [**AWS EC2 Website**](https://github.com/Aumar-mahmud/AWS-EC2-Website) | AWS EC2, Linux, SSH, Security Groups, Nginx |
+| [**Student Manager**](https://github.com/Aumar-mahmud/Student--Manager-) | Python, JSON-Speicherung, Module, Dateiverarbeitung, Suche, Statistiken |
+
+---
+
+## Technischer Werkzeugkasten
+
+### Daten & Analyse
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0C4B8E?style=flat-square" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/ETL-0f766e?style=flat-square" />
+
+### Backend
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-b91c1c?style=flat-square" />
+<img src="https://img.shields.io/badge/Pydantic-c026d3?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square" />
+
+### Cloud & Systeme
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+### Logistik
+<img src="https://img.shields.io/badge/Inventory%20Management-0f766e?style=flat-square" />
+<img src="https://img.shields.io/badge/Supply%20Chain%20Data-1d4ed8?style=flat-square" />
+<img src="https://img.shields.io/badge/Warehouse%20Processes-475569?style=flat-square" />
+<img src="https://img.shields.io/badge/WMS%20%2F%20ERP%20Data-334155?style=flat-square" />
+
+---
+
+## Qualifikationen
+
+- **AWS Certified Cloud Practitioner**
+- Netzwerk- / CCNA-Grundlagen
+- Python- und Linux-Grundlagen
+- Praktische Portfolio-Arbeit in Logistikautomatisierung, Backend-APIs, Datenbanken und Cloud-Deployment
+
+---
+
+## Beruflicher Fokus
+
+- Logistik- und Supply-Chain-Analyse
+- operative Datenqualität
+- Prozessautomatisierung
+- ETL und Datenaufbereitung
+- Reporting und Geschäftsprozessverbesserung
+- interne Tools mit Python
+- Junior-Backend-Entwicklung
+- Cloud-gestützte operative Systeme
+
+Ich bin aktuell offen für passende **Remote- oder projektbezogene Tätigkeiten** sowie zukünftig für **Positionen in Deutschland**.
+
+---
+
+## Sprachen
+
+| Sprache | Niveau |
+|---|---|
+| Englisch | C1 |
+| Deutsch | Auf dem Weg zu B1 |
+| Arabisch | Muttersprache |
+
+---
+
+## Kontakt
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aumar-mahmud-3221a4438"><img src="https://img.shields.io/badge/LinkedIn-Aumar%20Mahmud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Aumar_mahmud@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://github.com/Aumar-mahmud"><img src="https://img.shields.io/badge/GitHub-Aumar--mahmud-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+</details>
