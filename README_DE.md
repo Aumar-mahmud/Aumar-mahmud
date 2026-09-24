@@ -1,23 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0f172a,50:1e3a5f,100:0f766e&text=Aumar%20G.%20A.%20Mahmud&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Logistikdaten%20%C2%B7%20Prozessautomatisierung%20%C2%B7%20Wirtschaftsinformatik&descAlignY=59" alt="Aumar Mahmud profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:0f172a,50:312e81,100:6d28d9&text=Aumar%20G.%20A.%20Mahmud&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=Logistikdaten%20%C2%B7%20Prozessautomatisierung%20%C2%B7%20Wirtschaftsinformatik&descAlignY=59" alt="Aumar Mahmud profile header" />
 
-# Aumar Ghreeb Ahmed Mahmud
 
-**Wirtschaftsinformatik · Logistikdaten · Prozessautomatisierung**
+### Wirtschaftsinformatik · Logistikdaten · Prozessautomatisierung
 
-<a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧%20English-0f172a?style=for-the-badge" alt="English" /></a>
-<a href="./README_DE.md"><img src="https://img.shields.io/badge/🇩🇪%20Deutsch-475569?style=for-the-badge" alt="Deutsch" /></a>
+<a href="./README.md"><img src="https://img.shields.io/badge/🇬🇧%20English-1e1b4b?style=for-the-badge" alt="English" /></a>
+<a href="./README_DE.md"><img src="https://img.shields.io/badge/🇩🇪%20Deutsch-5b21b6?style=for-the-badge" alt="Deutsch" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LOGISTIK-Supply%20Chain%20%26%20Operations-0f766e?style=flat-square" />
-<img src="https://img.shields.io/badge/DATA-Python%20%7C%20SQL%20%7C%20ETL-1d4ed8?style=flat-square" />
-<img src="https://img.shields.io/badge/SYSTEMS-AWS%20%7C%20Linux%20%7C%20APIs-475569?style=flat-square" />
+<img src="https://img.shields.io/badge/LOGISTIK-Supply%20Chain%20%26%20Operations-6d28d9?style=flat-square" />
+<img src="https://img.shields.io/badge/DATEN-Python%20%7C%20SQL%20%7C%20ETL-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/SYSTEME-AWS%20%7C%20Linux%20%7C%20APIs-4c1d95?style=flat-square" />
 
 </div>
 
-Ich bin **Absolvent der Wirtschaftsinformatik** und arbeite an der Schnittstelle von **Logistik, Daten und Software**.
+Ich bin **Absolvent der Wirtschaftsinformatik** mit Fokus auf **Logistikdaten, Prozessautomatisierung und praxisnahe Softwarelösungen**.
 
 Meine praktische Erfahrung in der Bestandsverwaltung verbinde ich mit Kenntnissen in **Python, SQL, ETL, APIs, Cloud-Grundlagen und operativem Reporting**.
 
@@ -85,7 +84,7 @@ Mein Schwerpunkt liegt darauf, unstrukturierte Betriebsdaten und wiederkehrende 
 <tr>
 <td width="100%" valign="top">
 
-### 🚚 [LogiClean](https://github.com/Aumar-mahmud/logiclean)
+### [LogiClean](https://github.com/Aumar-mahmud/logiclean)
 #### ETL- & Datenqualitäts-Pipeline für Logistikdaten
 
 > Ein Python-basiertes Projekt zur Umwandlung uneinheitlicher Versand- und Bestandsdateien in strukturierte, validierte und analysierbare Datensätze.
@@ -114,10 +113,10 @@ Operative Logistikdaten enthalten häufig uneinheitliche Spaltenbezeichnungen, D
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenPyXL-2563eb?style=flat-square" />
-<img src="https://img.shields.io/badge/ETL-0f766e?style=flat-square" />
-<img src="https://img.shields.io/badge/Data%20Quality-475569?style=flat-square" />
-<img src="https://img.shields.io/badge/Logistics%20Data-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenPyXL-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/ETL-6d28d9?style=flat-square" />
+<img src="https://img.shields.io/badge/Datenqualität-4c1d95?style=flat-square" />
+<img src="https://img.shields.io/badge/Logistikdaten-581c87?style=flat-square" />
 
 ### [LogiClean ansehen →](https://github.com/Aumar-mahmud/logiclean)
 
@@ -181,9 +180,14 @@ Operative Logistikdaten enthalten häufig uneinheitliche Spaltenbezeichnungen, D
 
 ## Beruflicher Fokus
 
-Besonders interessiere ich mich für:
-
-**Logistics Analytics · Supply Chain Data · Data Quality · Process Automation · ETL · Reporting · Python Internal Tools · Junior Backend · Cloud-supported Operational Systems**
+- Logistik- und Supply-Chain-Analyse
+- operative Datenqualität
+- Prozessautomatisierung
+- ETL und Datenaufbereitung
+- Reporting und Geschäftsprozessverbesserung
+- interne Tools mit Python
+- Junior-Backend-Entwicklung
+- Cloud-gestützte operative Systeme
 
 Ich bin aktuell offen für passende **Remote- oder projektbezogene Tätigkeiten** sowie zukünftig für **Positionen in Deutschland**.
 
